@@ -1,0 +1,15 @@
+.carousel .carousel-item {
+    height: 500px;
+}
+.container .row {
+    text-align: center;
+}
+.hr {
+    height: 1px;
+    margin: 5rem 0rem;
+    color: darkgrey;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
