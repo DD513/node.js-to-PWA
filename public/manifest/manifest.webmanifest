@@ -1,12 +1,13 @@
 {
     "theme_color": "#f69435",
     "background_color": "#f69435",
-    "display": "browser",
+    "display": "fullscreen",
     "scope": "/",
     "start_url": "/",
     "name": "DD",
     "description": "This is a Dinosaur stickers pack ",
     "short_name": "Dinosaur",
+    "prefer_related_applications": true,
     "icons": [
         {
             "src": "icon-192x192.png",
